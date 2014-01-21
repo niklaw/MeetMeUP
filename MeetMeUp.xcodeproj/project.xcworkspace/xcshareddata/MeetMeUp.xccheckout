@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96B24FF1-7BCF-4992-AAA3-F86140451E87</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MeetMeUp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C103E8A8-1008-4C74-BC6D-5E62A66054AD</key>
+		<string>https://github.com/niklaw/TicTacToe</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MeetMeUp/MeetMeUp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C103E8A8-1008-4C74-BC6D-5E62A66054AD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/niklaw/TicTacToe</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C103E8A8-1008-4C74-BC6D-5E62A66054AD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C103E8A8-1008-4C74-BC6D-5E62A66054AD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MMkrs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
